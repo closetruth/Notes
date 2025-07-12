@@ -8,11 +8,11 @@
 睡眠笔记，职业病笔记，护眼笔记，抑郁笔记。(20分钟)
 信息可信度
 信息素养
+媒体素养
 学习流程
 https://www.bilibili.com/video/BV1yE411K7PJ?spm_id_from=333.788.player.switch&p=2
 
 ## 支线
-检验sci-hub 有关网络色情的
 
 ## 重要支线
 
