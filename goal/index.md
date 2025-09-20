@@ -1,7 +1,5 @@
 # 现在 
-<<<<<<< HEAD
-如何学习
->>>>>>> 9ccd3bf (strategy goal trap)
+如何学习->目标
 
 ## 主线
 各种笔记(20分钟)
@@ -24,6 +22,7 @@ https://www.bilibili.com/video/BV1yE411K7PJ?spm_id_from=333.788.player.switch&p=
 
 计算机百科式的入门经典
 
+双链，obsibian
 # 几天内短期
 
 学习如何做笔记
